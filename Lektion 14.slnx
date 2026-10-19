@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01 Virutell metod Djur och hunD/01 Virutell metod Djur och hunD.csproj" />
+  <Project Path="02 Polymorfism och basklassreferens/02 Polymorfism och basklassreferens.csproj" />
+  <Project Path="03 Array av polymorfa objekt/03 Array av polymorfa objekt.csproj" />
+  <Project Path="04 TypKontroll och typOmvandling is och as/04 TypKontroll och typOmvandling is och as.csproj" />
+</Solution>
