@@ -3,4 +3,12 @@
   <Project Path="02 Polymorfism och basklassreferens/02 Polymorfism och basklassreferens.csproj" />
   <Project Path="03 Array av polymorfa objekt/03 Array av polymorfa objekt.csproj" />
   <Project Path="04 TypKontroll och typOmvandling is och as/04 TypKontroll och typOmvandling is och as.csproj" />
+  <Project Path="05 Statisk polymorfism (Metodöverlagring)/05 Statisk polymorfism (Metodöverlagring).csproj" Id="df2b7b0c-0daf-49da-971e-01c83ee43d6f" />
+  <Project Path="06 Verklig hierarki - Betalsystem/06 Verklig hierarki - Betalsystem.csproj" Id="4acc2974-2c61-4db8-8f7a-b94109acce35" />
+  <Project Path="07 Verklig hierarki AnvändarSystem/07 Verklig hierarki AnvändarSystem.csproj" Id="18f35841-fdf7-4376-9da3-b5fb928d0722" />
+  <Project Path="08 Enkel Try-Catch Division med Noll/08 Enkel Try-Catch Division med Noll.csproj" Id="5bfc7a3b-81f4-4d19-b26b-22759626f401" />
+  <Project Path="09 Fånga generella undantag/09 Fånga generella undantag.csproj" Id="0ac07c83-dad2-48da-ab76-c8d8fe8a88a7" />
+  <Project Path="10 Kasta egna undantag/10 Kasta egna undantag.csproj" Id="4b153d4f-90c4-4d1b-9303-b621e27cf0b6" />
+  <Project Path="11 Skapa en egen undantagsklass/11 Skapa en egen undantagsklass.csproj" Id="436cbe0c-6971-4e5c-be48-b734dc02409d" />
+  <Project Path="13 StartSammanhållning/13 StartSammanhållning.csproj" Id="e05decd3-b02d-4dc7-8313-3cf7727bf4ff" />
 </Solution>

@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\01 Virutell metod Djur och hunD\01 Virutell metod Djur och hunD.csproj" />
+    <ProjectReference Include="..\02 Polymorfism och basklassreferens\02 Polymorfism och basklassreferens.csproj" />
+    <ProjectReference Include="..\03 Array av polymorfa objekt\03 Array av polymorfa objekt.csproj" />
+  </ItemGroup>
+
 </Project>

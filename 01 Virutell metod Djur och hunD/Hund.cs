@@ -10,5 +10,10 @@ namespace _01_Virutell_metod_Djur_och_hunD
         {
             Console.WriteLine("Hunden skäller");
         }
+
+        public void ViftaPåSvansen()
+        {
+            Console.WriteLine("Hunden viftar på svansen...");
+        }
     }
 }
